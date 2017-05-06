@@ -1,5 +1,4 @@
-
-e  // Simple NeoPixel test.  Lights just a few pixels at a time so a
+ // Simple NeoPixel test.  Lights just a few pixels at a time so a
 // 1m strip can safely be powered from Arduino 5V pin.  Arduino
 // may nonetheless hiccup when LEDs are first connected and not
 // accept code.  So upload code first, unplug USB, connect pixels
