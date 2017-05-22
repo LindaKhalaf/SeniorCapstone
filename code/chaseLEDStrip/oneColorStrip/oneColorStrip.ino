@@ -24,7 +24,7 @@ void setup() {
 void loop() {
   chase(strip.Color(128, 0, 128)); // 
   chase(strip.Color(75, 0, 130)); // 
-  //chase(strip.Color(0, 0, 255)); // Blue
+  chase(strip.Color(0, 0, 255)); // Blue REMEMBER TO COMMENT THS OUT!!!!!!!
 }
 
 static void chase(uint32_t c) {
